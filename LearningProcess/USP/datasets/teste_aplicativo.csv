@@ -1,0 +1,501 @@
+,idpessoa,faixa_idade,genero,Aplicativo Minimalista,Aplicativo Completo
+0,1,jovem adulto,homem,1,0
+1,2,adulto,homem,0,1
+2,3,adulto,não identificado,1,0
+3,4,jovem,mulher,1,0
+4,5,jovem,homem,1,0
+5,6,jovem,não identificado,1,0
+6,7,jovem adulto,não identificado,1,0
+7,8,jovem,não identificado,1,0
+8,9,adulto,mulher,0,1
+9,10,jovem adulto,homem,1,0
+10,11,adulto,mulher,0,1
+11,12,jovem,homem,1,0
+12,13,jovem,mulher,1,0
+13,14,jovem,mulher,1,0
+14,15,jovem,mulher,1,0
+15,16,jovem adulto,homem,1,0
+16,17,adulto,mulher,1,0
+17,18,jovem,mulher,1,0
+18,19,adulto,mulher,1,0
+19,20,jovem adulto,não identificado,1,0
+20,21,jovem,não identificado,1,0
+21,22,jovem,mulher,1,0
+22,23,idoso,homem,0,1
+23,24,adulto,mulher,0,1
+24,25,jovem adulto,mulher,1,0
+25,26,jovem,mulher,1,0
+26,27,jovem,mulher,1,0
+27,28,adulto,homem,1,0
+28,29,jovem adulto,homem,1,0
+29,30,jovem adulto,homem,1,0
+30,31,jovem,mulher,1,0
+31,32,jovem,não identificado,1,0
+32,33,jovem adulto,homem,1,0
+33,34,jovem adulto,homem,1,0
+34,35,jovem,homem,1,0
+35,36,adulto,homem,0,1
+36,37,jovem,não identificado,1,0
+37,38,adulto,não identificado,0,1
+38,39,jovem adulto,não identificado,1,0
+39,40,jovem adulto,mulher,1,0
+40,41,jovem,não identificado,1,0
+41,42,jovem adulto,mulher,1,0
+42,43,adulto,não identificado,0,1
+43,44,jovem adulto,homem,1,0
+44,45,idoso,homem,0,1
+45,46,jovem adulto,homem,1,0
+46,47,adulto,homem,1,0
+47,48,jovem adulto,não identificado,1,0
+48,49,jovem adulto,homem,1,0
+49,50,jovem adulto,não identificado,1,0
+50,51,idoso,não identificado,0,1
+51,52,jovem,não identificado,1,0
+52,53,adulto,não identificado,0,1
+53,54,jovem,não identificado,1,0
+54,55,adulto,mulher,1,0
+55,56,jovem,mulher,1,0
+56,57,jovem,homem,1,0
+57,58,idoso,não identificado,0,1
+58,59,jovem,não identificado,1,0
+59,60,adulto,homem,1,0
+60,61,adulto,não identificado,0,1
+61,62,jovem adulto,homem,1,0
+62,63,jovem,homem,1,0
+63,64,jovem adulto,não identificado,1,0
+64,65,idoso,não identificado,0,1
+65,66,jovem,homem,1,0
+66,67,jovem,mulher,1,0
+67,68,adulto,mulher,1,0
+68,69,jovem,homem,1,0
+69,70,adulto,homem,1,0
+70,71,adulto,não identificado,1,0
+71,72,adulto,mulher,0,1
+72,73,idoso,homem,0,1
+73,74,jovem,não identificado,1,0
+74,75,jovem adulto,homem,1,0
+75,76,idoso,não identificado,0,1
+76,77,jovem adulto,não identificado,1,0
+77,78,jovem,não identificado,1,0
+78,79,jovem adulto,mulher,1,0
+79,80,adulto,homem,0,1
+80,81,jovem,mulher,1,0
+81,82,jovem,não identificado,1,0
+82,83,jovem,homem,1,0
+83,84,jovem,não identificado,1,0
+84,85,jovem adulto,homem,1,0
+85,86,jovem,homem,1,0
+86,87,adulto,homem,0,1
+87,88,jovem,mulher,1,0
+88,89,jovem,homem,1,0
+89,90,adulto,não identificado,1,0
+90,91,jovem adulto,mulher,1,0
+91,92,adulto,homem,0,1
+92,93,jovem adulto,mulher,1,0
+93,94,jovem adulto,mulher,1,0
+94,95,adulto,não identificado,0,1
+95,96,idoso,homem,0,1
+96,97,jovem,não identificado,1,0
+97,98,jovem,homem,1,0
+98,99,jovem,homem,1,0
+99,100,jovem adulto,homem,1,0
+100,101,jovem adulto,mulher,1,0
+101,102,jovem adulto,homem,1,0
+102,103,jovem adulto,não identificado,1,0
+103,104,jovem,não identificado,1,0
+104,105,idoso,homem,0,1
+105,106,idoso,homem,0,1
+106,107,jovem,mulher,1,0
+107,108,jovem adulto,mulher,1,0
+108,109,idoso,homem,0,1
+109,110,jovem adulto,mulher,1,0
+110,111,jovem,mulher,1,0
+111,112,jovem,não identificado,1,0
+112,113,idoso,não identificado,0,1
+113,114,jovem adulto,mulher,1,0
+114,115,jovem,mulher,1,0
+115,116,jovem,homem,1,0
+116,117,jovem adulto,não identificado,1,0
+117,118,jovem,mulher,1,0
+118,119,jovem,não identificado,1,0
+119,120,jovem adulto,não identificado,1,0
+120,121,jovem,não identificado,1,0
+121,122,jovem,homem,1,0
+122,123,jovem,homem,1,0
+123,124,jovem adulto,homem,1,0
+124,125,jovem adulto,não identificado,1,0
+125,126,jovem,não identificado,1,0
+126,127,jovem,homem,1,0
+127,128,jovem adulto,não identificado,1,0
+128,129,jovem adulto,mulher,1,0
+129,130,idoso,homem,0,1
+130,131,jovem adulto,mulher,1,0
+131,132,jovem,mulher,1,0
+132,133,jovem,não identificado,1,0
+133,134,jovem,mulher,1,0
+134,135,idoso,homem,0,1
+135,136,jovem,não identificado,1,0
+136,137,idoso,homem,0,1
+137,138,jovem,homem,1,0
+138,139,jovem adulto,homem,1,0
+139,140,idoso,homem,0,1
+140,141,adulto,homem,0,1
+141,142,jovem adulto,não identificado,1,0
+142,143,adulto,não identificado,1,0
+143,144,jovem adulto,não identificado,1,0
+144,145,adulto,não identificado,0,1
+145,146,jovem,homem,1,0
+146,147,jovem,homem,1,0
+147,148,adulto,mulher,0,1
+148,149,jovem adulto,não identificado,1,0
+149,150,jovem,não identificado,1,0
+150,151,jovem adulto,mulher,1,0
+151,152,jovem adulto,mulher,1,0
+152,153,idoso,homem,0,1
+153,154,jovem,mulher,1,0
+154,155,adulto,mulher,0,1
+155,156,adulto,mulher,1,0
+156,157,jovem,mulher,1,0
+157,158,jovem adulto,mulher,1,0
+158,159,jovem adulto,homem,1,0
+159,160,jovem,não identificado,1,0
+160,161,idoso,não identificado,0,1
+161,162,jovem,mulher,1,0
+162,163,jovem adulto,homem,1,0
+163,164,jovem adulto,homem,1,0
+164,165,jovem,homem,1,0
+165,166,adulto,homem,0,1
+166,167,jovem adulto,mulher,1,0
+167,168,adulto,mulher,1,0
+168,169,idoso,não identificado,0,1
+169,170,jovem,homem,1,0
+170,171,adulto,homem,1,0
+171,172,adulto,não identificado,0,1
+172,173,idoso,mulher,0,1
+173,174,adulto,homem,1,0
+174,175,jovem,não identificado,1,0
+175,176,jovem,homem,1,0
+176,177,adulto,mulher,0,1
+177,178,jovem,homem,1,0
+178,179,jovem,não identificado,1,0
+179,180,jovem,mulher,1,0
+180,181,jovem,homem,1,0
+181,182,idoso,mulher,0,1
+182,183,jovem adulto,não identificado,1,0
+183,184,jovem adulto,não identificado,1,0
+184,185,jovem,homem,1,0
+185,186,jovem,mulher,1,0
+186,187,jovem,mulher,1,0
+187,188,jovem,não identificado,1,0
+188,189,jovem adulto,não identificado,1,0
+189,190,adulto,não identificado,0,1
+190,191,jovem,não identificado,1,0
+191,192,jovem,homem,1,0
+192,193,adulto,não identificado,0,1
+193,194,jovem adulto,não identificado,1,0
+194,195,adulto,mulher,0,1
+195,196,jovem,não identificado,1,0
+196,197,idoso,não identificado,0,1
+197,198,jovem,homem,1,0
+198,199,adulto,mulher,0,1
+199,200,jovem adulto,mulher,1,0
+200,201,jovem adulto,mulher,1,0
+201,202,jovem adulto,homem,1,0
+202,203,jovem adulto,mulher,1,0
+203,204,jovem adulto,homem,1,0
+204,205,jovem adulto,mulher,1,0
+205,206,jovem adulto,homem,1,0
+206,207,jovem,homem,1,0
+207,208,jovem adulto,não identificado,1,0
+208,209,jovem adulto,mulher,1,0
+209,210,jovem adulto,mulher,1,0
+210,211,jovem adulto,não identificado,1,0
+211,212,jovem adulto,não identificado,1,0
+212,213,jovem,homem,1,0
+213,214,jovem,não identificado,1,0
+214,215,jovem adulto,mulher,1,0
+215,216,jovem,homem,1,0
+216,217,jovem adulto,homem,1,0
+217,218,adulto,homem,0,1
+218,219,jovem,mulher,1,0
+219,220,jovem adulto,homem,1,0
+220,221,jovem adulto,não identificado,1,0
+221,222,jovem adulto,não identificado,1,0
+222,223,jovem adulto,mulher,1,0
+223,224,jovem adulto,homem,1,0
+224,225,jovem adulto,homem,1,0
+225,226,adulto,homem,1,0
+226,227,adulto,não identificado,0,1
+227,228,jovem adulto,homem,1,0
+228,229,jovem adulto,homem,1,0
+229,230,jovem adulto,mulher,1,0
+230,231,jovem adulto,não identificado,1,0
+231,232,jovem adulto,mulher,1,0
+232,233,jovem adulto,não identificado,1,0
+233,234,adulto,não identificado,0,1
+234,235,jovem adulto,homem,1,0
+235,236,adulto,mulher,0,1
+236,237,adulto,mulher,1,0
+237,238,adulto,não identificado,1,0
+238,239,jovem,mulher,1,0
+239,240,jovem,mulher,1,0
+240,241,jovem,mulher,1,0
+241,242,jovem,não identificado,1,0
+242,243,jovem,homem,1,0
+243,244,jovem,não identificado,1,0
+244,245,jovem,homem,1,0
+245,246,jovem,mulher,1,0
+246,247,jovem,mulher,1,0
+247,248,jovem adulto,homem,1,0
+248,249,adulto,não identificado,0,1
+249,250,idoso,homem,0,1
+250,251,adulto,mulher,1,0
+251,252,jovem adulto,mulher,1,0
+252,253,jovem,mulher,1,0
+253,254,adulto,mulher,1,0
+254,255,jovem adulto,não identificado,1,0
+255,256,jovem adulto,não identificado,1,0
+256,257,adulto,mulher,0,1
+257,258,jovem adulto,homem,1,0
+258,259,jovem adulto,não identificado,1,0
+259,260,jovem adulto,mulher,1,0
+260,261,adulto,homem,1,0
+261,262,idoso,não identificado,0,1
+262,263,jovem,mulher,1,0
+263,264,jovem adulto,não identificado,1,0
+264,265,jovem,não identificado,1,0
+265,266,jovem adulto,mulher,1,0
+266,267,jovem,mulher,1,0
+267,268,jovem adulto,homem,1,0
+268,269,jovem adulto,mulher,1,0
+269,270,adulto,mulher,0,1
+270,271,jovem,homem,1,0
+271,272,jovem adulto,não identificado,1,0
+272,273,jovem adulto,mulher,1,0
+273,274,jovem,homem,1,0
+274,275,adulto,homem,1,0
+275,276,idoso,homem,0,1
+276,277,adulto,homem,1,0
+277,278,jovem,não identificado,1,0
+278,279,jovem,homem,1,0
+279,280,jovem adulto,mulher,1,0
+280,281,adulto,não identificado,0,1
+281,282,idoso,não identificado,0,1
+282,283,jovem,homem,1,0
+283,284,idoso,homem,0,1
+284,285,jovem adulto,mulher,1,0
+285,286,jovem adulto,mulher,1,0
+286,287,jovem adulto,não identificado,1,0
+287,288,jovem,não identificado,1,0
+288,289,jovem adulto,não identificado,1,0
+289,290,jovem,não identificado,1,0
+290,291,adulto,não identificado,1,0
+291,292,adulto,não identificado,1,0
+292,293,adulto,mulher,0,1
+293,294,jovem adulto,homem,1,0
+294,295,jovem adulto,mulher,1,0
+295,296,jovem,mulher,1,0
+296,297,adulto,mulher,0,1
+297,298,jovem adulto,mulher,1,0
+298,299,adulto,não identificado,0,1
+299,300,jovem adulto,não identificado,1,0
+300,301,jovem,não identificado,1,0
+301,302,adulto,não identificado,0,1
+302,303,jovem adulto,mulher,1,0
+303,304,adulto,homem,1,0
+304,305,jovem,mulher,1,0
+305,306,jovem,mulher,1,0
+306,307,jovem adulto,não identificado,1,0
+307,308,jovem adulto,homem,1,0
+308,309,jovem adulto,mulher,1,0
+309,310,jovem,homem,1,0
+310,311,jovem adulto,mulher,1,0
+311,312,jovem,não identificado,1,0
+312,313,adulto,homem,0,1
+313,314,jovem adulto,homem,1,0
+314,315,jovem,não identificado,1,0
+315,316,jovem adulto,não identificado,1,0
+316,317,adulto,não identificado,1,0
+317,318,adulto,homem,0,1
+318,319,jovem,homem,1,0
+319,320,jovem adulto,homem,1,0
+320,321,jovem,não identificado,1,0
+321,322,jovem adulto,não identificado,1,0
+322,323,jovem adulto,mulher,1,0
+323,324,idoso,não identificado,0,1
+324,325,jovem,não identificado,1,0
+325,326,jovem adulto,mulher,1,0
+326,327,jovem,homem,1,0
+327,328,adulto,não identificado,0,1
+328,329,jovem adulto,não identificado,1,0
+329,330,jovem,homem,1,0
+330,331,adulto,não identificado,0,1
+331,332,idoso,não identificado,0,1
+332,333,jovem adulto,homem,1,0
+333,334,adulto,mulher,0,1
+334,335,jovem,homem,1,0
+335,336,adulto,homem,0,1
+336,337,idoso,não identificado,0,1
+337,338,jovem,homem,1,0
+338,339,jovem adulto,mulher,1,0
+339,340,jovem,homem,1,0
+340,341,jovem adulto,mulher,1,0
+341,342,jovem adulto,mulher,1,0
+342,343,jovem,homem,1,0
+343,344,jovem,mulher,1,0
+344,345,jovem,homem,1,0
+345,346,jovem adulto,homem,1,0
+346,347,jovem adulto,não identificado,1,0
+347,348,jovem,homem,1,0
+348,349,adulto,homem,1,0
+349,350,idoso,homem,0,1
+350,351,jovem adulto,mulher,1,0
+351,352,jovem adulto,não identificado,1,0
+352,353,jovem,não identificado,1,0
+353,354,jovem adulto,mulher,1,0
+354,355,jovem,não identificado,1,0
+355,356,idoso,mulher,0,1
+356,357,jovem adulto,homem,1,0
+357,358,jovem adulto,não identificado,1,0
+358,359,jovem,homem,1,0
+359,360,jovem adulto,mulher,1,0
+360,361,jovem adulto,homem,1,0
+361,362,jovem,não identificado,1,0
+362,363,jovem,homem,1,0
+363,364,jovem adulto,não identificado,1,0
+364,365,jovem adulto,mulher,1,0
+365,366,jovem,mulher,1,0
+366,367,adulto,mulher,1,0
+367,368,jovem,homem,1,0
+368,369,idoso,não identificado,0,1
+369,370,jovem adulto,homem,1,0
+370,371,jovem adulto,não identificado,1,0
+371,372,jovem,homem,1,0
+372,373,idoso,homem,0,1
+373,374,jovem,homem,1,0
+374,375,adulto,não identificado,1,0
+375,376,idoso,mulher,0,1
+376,377,jovem,não identificado,1,0
+377,378,jovem,mulher,1,0
+378,379,idoso,não identificado,0,1
+379,380,jovem adulto,mulher,1,0
+380,381,jovem,homem,1,0
+381,382,adulto,não identificado,1,0
+382,383,jovem,homem,1,0
+383,384,jovem,não identificado,1,0
+384,385,adulto,homem,1,0
+385,386,idoso,não identificado,0,1
+386,387,adulto,homem,1,0
+387,388,jovem adulto,não identificado,1,0
+388,389,jovem adulto,mulher,1,0
+389,390,jovem,não identificado,1,0
+390,391,jovem adulto,mulher,1,0
+391,392,idoso,mulher,0,1
+392,393,jovem,mulher,1,0
+393,394,jovem,homem,1,0
+394,395,adulto,não identificado,0,1
+395,396,jovem adulto,não identificado,1,0
+396,397,idoso,não identificado,0,1
+397,398,jovem,homem,1,0
+398,399,jovem,mulher,1,0
+399,400,jovem,mulher,1,0
+400,401,adulto,homem,1,0
+401,402,jovem adulto,não identificado,1,0
+402,403,jovem adulto,homem,1,0
+403,404,jovem,mulher,1,0
+404,405,jovem adulto,mulher,1,0
+405,406,jovem adulto,homem,1,0
+406,407,jovem,não identificado,1,0
+407,408,jovem,mulher,1,0
+408,409,jovem adulto,não identificado,1,0
+409,410,jovem adulto,homem,1,0
+410,411,idoso,não identificado,0,1
+411,412,adulto,mulher,1,0
+412,413,jovem adulto,não identificado,1,0
+413,414,jovem adulto,homem,1,0
+414,415,idoso,homem,0,1
+415,416,jovem adulto,homem,1,0
+416,417,jovem adulto,homem,1,0
+417,418,jovem adulto,não identificado,1,0
+418,419,jovem,não identificado,1,0
+419,420,jovem,mulher,1,0
+420,421,idoso,homem,0,1
+421,422,jovem adulto,homem,1,0
+422,423,jovem adulto,não identificado,1,0
+423,424,jovem adulto,homem,1,0
+424,425,adulto,mulher,0,1
+425,426,jovem,não identificado,1,0
+426,427,jovem,homem,1,0
+427,428,jovem,mulher,1,0
+428,429,adulto,não identificado,1,0
+429,430,jovem adulto,homem,1,0
+430,431,jovem adulto,mulher,1,0
+431,432,jovem,não identificado,1,0
+432,433,adulto,mulher,0,1
+433,434,adulto,homem,1,0
+434,435,jovem adulto,homem,1,0
+435,436,adulto,mulher,0,1
+436,437,adulto,mulher,1,0
+437,438,jovem adulto,não identificado,1,0
+438,439,adulto,homem,1,0
+439,440,jovem adulto,homem,1,0
+440,441,jovem,não identificado,1,0
+441,442,jovem,homem,1,0
+442,443,adulto,não identificado,0,1
+443,444,idoso,homem,0,1
+444,445,adulto,não identificado,0,1
+445,446,idoso,homem,0,1
+446,447,jovem adulto,mulher,1,0
+447,448,jovem,não identificado,1,0
+448,449,jovem adulto,homem,1,0
+449,450,adulto,não identificado,1,0
+450,451,jovem adulto,mulher,1,0
+451,452,jovem adulto,mulher,1,0
+452,453,adulto,homem,0,1
+453,454,jovem,não identificado,1,0
+454,455,idoso,homem,0,1
+455,456,adulto,homem,0,1
+456,457,adulto,homem,1,0
+457,458,jovem adulto,não identificado,1,0
+458,459,jovem,homem,1,0
+459,460,jovem,homem,1,0
+460,461,jovem,mulher,1,0
+461,462,jovem adulto,homem,1,0
+462,463,jovem adulto,não identificado,1,0
+463,464,jovem adulto,homem,1,0
+464,465,jovem,homem,1,0
+465,466,jovem adulto,mulher,1,0
+466,467,jovem adulto,homem,1,0
+467,468,jovem adulto,não identificado,1,0
+468,469,jovem,mulher,1,0
+469,470,jovem adulto,mulher,1,0
+470,471,jovem,homem,1,0
+471,472,adulto,mulher,0,1
+472,473,jovem adulto,homem,1,0
+473,474,jovem,mulher,1,0
+474,475,idoso,mulher,0,1
+475,476,jovem adulto,mulher,1,0
+476,477,jovem adulto,mulher,1,0
+477,478,adulto,mulher,0,1
+478,479,adulto,mulher,0,1
+479,480,jovem adulto,não identificado,1,0
+480,481,jovem,não identificado,1,0
+481,482,jovem,não identificado,1,0
+482,483,jovem adulto,homem,1,0
+483,484,jovem adulto,não identificado,1,0
+484,485,adulto,não identificado,1,0
+485,486,adulto,mulher,1,0
+486,487,adulto,mulher,0,1
+487,488,jovem,homem,1,0
+488,489,jovem adulto,não identificado,1,0
+489,490,adulto,não identificado,1,0
+490,491,adulto,não identificado,1,0
+491,492,jovem adulto,mulher,1,0
+492,493,adulto,mulher,0,1
+493,494,adulto,mulher,0,1
+494,495,jovem,mulher,1,0
+495,496,jovem,homem,1,0
+496,497,adulto,mulher,1,0
+497,498,jovem adulto,mulher,1,0
+498,499,adulto,mulher,0,1
+499,500,idoso,mulher,0,1
